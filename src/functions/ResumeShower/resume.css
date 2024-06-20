@@ -1,0 +1,31 @@
+.imgJon {
+    object-position: center;
+    width: 450px;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    border-radius: 15%;    
+}
+
+.introCard {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 800px;
+    margin-top: 0;
+}
+
+.introCardText {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 8%;
+}
+
+.backgroundFiller1 {
+    width: 100%;
+    background-color: #ECB365;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
