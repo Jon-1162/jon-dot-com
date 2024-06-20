@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/jon-dot-com/static/css/main.3978b905.css",
+    "main.js": "/jon-dot-com/static/js/main.2a654efe.js",
+    "static/js/453.a3a381e8.chunk.js": "/jon-dot-com/static/js/453.a3a381e8.chunk.js",
+    "static/media/blueShirtGreyBack.jpg": "/jon-dot-com/static/media/blueShirtGreyBack.8af3d8f2f46e0d3b0c6d.jpg",
+    "static/media/layer2.svg": "/jon-dot-com/static/media/layer2.0ba849e7327247ddce1c45e7696eea66.svg",
+    "static/media/layer1.svg": "/jon-dot-com/static/media/layer1.ddab198bb6120a548f446679ed0b39d6.svg",
+    "index.html": "/jon-dot-com/index.html",
+    "main.3978b905.css.map": "/jon-dot-com/static/css/main.3978b905.css.map",
+    "main.2a654efe.js.map": "/jon-dot-com/static/js/main.2a654efe.js.map",
+    "453.a3a381e8.chunk.js.map": "/jon-dot-com/static/js/453.a3a381e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3978b905.css",
+    "static/js/main.2a654efe.js"
+  ]
+}
